@@ -1,3 +1,4 @@
+
 let nomeHeroi = "João";
 let quantExperienciaXP = 7000;
 
